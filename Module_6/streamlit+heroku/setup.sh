@@ -4,7 +4,7 @@ echo "\
 
 [general]\n\
 
-email = \"stas.start95@yandex.ru\"\n\
+email = \"astandaniyal@gmail.com\"\n\
 
 " > ~/.streamlit/credentials.toml
 
