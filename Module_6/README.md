@@ -19,7 +19,7 @@
 https://www.kaggle.com/botaabd/recommendations-abd-bot?scriptVersionId=51157684
 
 ## ссылка на прототип:
-
+https://stormy-bastion-42742.herokuapp.com
 
 
 ## ответы на вопросы:
