@@ -1,1 +1,7 @@
 
+Итого
+добавлены transfer learning и fine-tuning
+добавлен learning rate
+подобран размер картинкb
+SOTA архитектура сетей - EfficientNetB6 + изменена архитектура “головы”
+добавлен TTA (Test Time Augmentation)
